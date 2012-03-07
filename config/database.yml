@@ -1,0 +1,5 @@
+adapter: mysql
+user: root
+password:
+host: localhost
+database: sinatra-facebook-example
